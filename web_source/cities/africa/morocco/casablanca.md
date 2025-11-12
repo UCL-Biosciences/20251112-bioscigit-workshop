@@ -4,7 +4,8 @@ Country: Morocco (Africa)
 
 ##### Also known as:
 
-FIXME
+Hassan II mosque 
+The markets 
 
 ### What we would like to see there
 
