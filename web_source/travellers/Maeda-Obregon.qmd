@@ -1,0 +1,31 @@
+---
+title: "Alejandro Maeda-Obregón"
+subtitle: "Foodie and Molecular Ecologist"
+image: https://github.com/amaeda16.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Mexican Biologist interested in using molecular ecological techniques to assess the status of endangered species. And food. Lots of food.
+
+## Travelled cities
+
+- Monterrey, Mexico
+- Ghent, Belgium
+- San José, Costa Rica
