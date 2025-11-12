@@ -4,12 +4,12 @@ Country: Philippines (Asia)
 
 ##### Also known as:
 
-FIXME
+Ciudad de Zamboanga
 
 ### What we would like to see there
 
-FIXME
+Rocky terins
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://wikipedia.org/wiki/Zamboanga_City)
