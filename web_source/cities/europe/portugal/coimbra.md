@@ -4,12 +4,12 @@ Country: Portugal (Europe)
 
 ##### Also known as:
 
-FIXME
+Cidade de Coimbra
 
 ### What we would like to see there
 
-FIXME
+aqueduct and cryptoporticus
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [[wikipedia](https://wikipedia.org/FIXME)](https://en.wikipedia.org/wiki/Coimbra)
