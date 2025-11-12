@@ -1,0 +1,31 @@
+---
+title: "Enric"
+subtitle: "Traveller"
+image: https://i1.rgstatic.net/ii/profile.image/277643380445205-1443206748588_Q128/Enric-Urena.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+I wish my job was travelling
+
+## Travelled cities
+
+- Quito
+- Lima
+- Bangkok
