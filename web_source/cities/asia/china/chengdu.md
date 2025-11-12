@@ -2,14 +2,14 @@
 
 Country: China (Asia)
 
-##### Also known as:
+##### Also known as: 
 
-FIXME
+成都市
 
 ### What we would like to see there
 
-FIXME
+Mount Qingcheng
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia]([https://en.wikipedia.org/wiki/Chengdu)
