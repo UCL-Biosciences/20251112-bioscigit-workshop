@@ -4,12 +4,12 @@ Country: Egypt (Africa)
 
 ##### Also known as:
 
-FIXME
+السويس
 
 ### What we would like to see there
 
-FIXME
+Suez Canal
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Suez)
