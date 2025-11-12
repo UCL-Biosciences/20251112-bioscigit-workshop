@@ -4,12 +4,12 @@ Country: Mongolia (Asia)
 
 ##### Also known as:
 
-FIXME
+Örgöö 
 
 ### What we would like to see there
 
-FIXME
+Gandantegchinlen Monastery
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to https://en.wikipedia.org/wiki/Ulaanbaatar#Names_and_etymology
