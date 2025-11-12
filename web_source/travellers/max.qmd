@@ -1,0 +1,31 @@
+---
+title: "Max"
+subtitle: "English"
+image:  https://github.com/MaxTelford.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Zoologist at UCL
+
+## Travelled cities
+
+- Vienna
+- Paris
+- Perth
