@@ -4,12 +4,12 @@ Country: USA (N. America)
 
 ##### Also known as:
 
-FIXME
+The Mile High City
 
 ### What we would like to see there
 
-FIXME
+Colorado Convention Center, The first Chipotle Mexican Grill, World Theatre Festival
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Denver#Culture)
