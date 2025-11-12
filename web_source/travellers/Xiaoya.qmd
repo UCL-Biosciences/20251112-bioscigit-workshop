@@ -1,0 +1,31 @@
+---
+title: "Xiaoya Wei"
+subtitle: "cat lover"
+image: https://static.wixstatic.com/media/c5d018_2eefe717f88a45e598bde15f4dcd04f1~mv2.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Love food and animal
+
+## Travelled cities
+
+Tokyo
+KL
+Sydney
