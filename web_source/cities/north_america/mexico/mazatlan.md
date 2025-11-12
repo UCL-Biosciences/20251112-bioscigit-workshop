@@ -12,4 +12,4 @@ The beaches, the Historic Centre, International Carnival, the Lighthouse
 
 ### Extra information
  
-- Link to [[wikipedia(https://en.wikipedia.org/wiki/Mazatl%C3%A1n))
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Mazatl%C3%A1n)
