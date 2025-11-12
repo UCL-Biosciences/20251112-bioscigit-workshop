@@ -12,4 +12,4 @@ aqueduct and cryptoporticus
 
 ### Extra information
 
-- Link to [[wikipedia](https://wikipedia.org/FIXME)](https://en.wikipedia.org/wiki/Coimbra)
+Link to [wikipedia](https://en.wikipedia.org/wiki/Coimbra)
