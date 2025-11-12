@@ -1,0 +1,31 @@
+---
+title: "Nicole"
+subtitle: "loves travelling"
+image: https://upload.wikimedia.org/wikipedia/commons/6/65/Monolito_de_la_Piedra_del_Sol.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+loves to explore new places
+
+## Travelled cities
+
+- Keywest
+- Marrakesh
+- Teotihuacan
