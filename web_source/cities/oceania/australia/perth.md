@@ -4,12 +4,13 @@ Country: Australia (Oceania)
 
 ##### Also known as:
 
-FIXME
+Boorloo
 
 ### What we would like to see there
 
-FIXME
+Skyline of Perth
+Perth Stadium
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://wikipedia.org/Perth)
