@@ -4,12 +4,12 @@ Country: India (Asia)
 
 ##### Also known as:
 
-FIXME
+Calcutta
 
 ### What we would like to see there
 
-FIXME
+capital and largest city of the Indian state of West Bengal
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia]([https://wikipedia.org/FIXME](https://en.wikipedia.org/wiki/Kolkata))
