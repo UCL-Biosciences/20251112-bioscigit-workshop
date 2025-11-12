@@ -4,12 +4,12 @@ Country: Algeria (Africa)
 
 ##### Also known as:
 
-FIXME
+الجزائر
 
 ### What we would like to see there
 
-FIXME
+Grande Poste d'Alger
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Algiers)
